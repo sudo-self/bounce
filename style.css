@@ -116,7 +116,7 @@ div {
       linear-gradient(-10deg, #0000 11%, #dda 0 89%, #0000 0) 64.5% 54.5% / 20% 20%,
       radial-gradient( at 72% 52%, var(--skin) 6%, #0000 6.1%),
       /* glasses */
-      linear-gradient(#2558F9 0 0) 50% 10% / 25% 1%,
+      linear-gradient(#ff0000 0 0) 50% 10% / 25% 1%,
       /* head */
       radial-gradient(farthest-side at 50% 100%, var(--skin-dark) 99%, #0000) 50% 0 / 25% 7.5%,
       radial-gradient(farthest-side at 50% 0%, var(--skin-dark) 99%, #0000) 50% 8.5% / 25% 14%,
