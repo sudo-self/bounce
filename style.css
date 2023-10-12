@@ -93,7 +93,7 @@ div {
   }
   
   &::before {
-    content: "Security";
+    content: "Watch Dog";
     font-family: Arial, sans-serif;
     font-size: 2.5vmin;
     font-weight: bold;
