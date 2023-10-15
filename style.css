@@ -68,7 +68,7 @@ div {
   
   &::after {
     animation: bounce 2.5s alternate linear infinite;
-    content: "";
+    content: "Not today!";
     position: absolute;
     top: 75%;
     left: 50%;
