@@ -34,7 +34,7 @@ div {
   --shirt: #3498DB;
   --shirt-light: #fff;
   --shirt-dark: #ddd;
-  --pants: #ffffff;
+  --pants: #090A0A;
   --shoe: #00E0FF;
   position: fixed;
   top: 0;
@@ -127,7 +127,7 @@ div {
       /* neck */
       radial-gradient(80% 50%, var(--skin-dark) 99%, #0000) 50% 15% / 12% 12%,
       /* belt */
-      linear-gradient(90deg, #0489f1 40%, silver 0 60%, #630 0) 50% 56.5% / 30% 3%,
+      linear-gradient(90deg, #090A0A 40%, silver 0 60%, #630 0) 50% 56.5% / 30% 3%,
       /* torso */
       radial-gradient(100% 50% at 50% 100%, #0000 80%, #0001 0 90%, #0000 0) 50% 41% / 20% 10%,
       radial-gradient(farthest-side at 50% 130%, var(--shirt) 99%, #0000) 50% 23.75% / 48% 5%,
