@@ -31,11 +31,11 @@ div {
   --skin: #fca;
   --skin-light: #fdb;
   --skin-dark: #fb9;
-  --shirt: #eee;
+  --shirt: #3498DB;
   --shirt-light: #fff;
   --shirt-dark: #ddd;
   --pants: #343431;
-  --shoe: #441e00;
+  --shoe: #00E0FF;
   position: fixed;
   top: 0;
   left: 0;
