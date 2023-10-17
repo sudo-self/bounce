@@ -17,8 +17,8 @@
 }
 
 div {
-  --barrier: gold;
-  --barrier-dark: orange;
+  --barrier: grey;
+  --barrier-dark: gray;
   --string: #c00;
   --string-light: #d33;
   --string-dark: #a00;
@@ -26,7 +26,7 @@ div {
   --floor-start: #666;
   --floor-end: #555;
   --top: 75%;
-  --door: #4a4759;
+  --door: #140295;
   --door2: #2a2739;
   --skin: #fca;
   --skin-light: #fdb;
@@ -93,7 +93,7 @@ div {
   }
   
   &::before {
-    content: "Bad Idea";
+    content: "if you say so";
     font-family: Arial, sans-serif;
     font-size: 2.5vmin;
     font-weight: bold;
