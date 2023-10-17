@@ -17,7 +17,7 @@
 }
 
 div {
-  --barrier: grey;
+  --barrier: brown;
   --barrier-dark: gray;
   --string: #c00;
   --string-light: #d33;
@@ -31,7 +31,7 @@ div {
   --skin: #fca;
   --skin-light: #fdb;
   --skin-dark: #fb9;
-  --shirt: #3498DB;
+  --shirt: #40B752;
   --shirt-light: #fff;
   --shirt-dark: #ddd;
   --pants: #090A0A;
@@ -84,7 +84,7 @@ div {
       radial-gradient(farthest-side at 50% 20%, #000 99%, #0000 0) 43% 10% / 11% 5%,
       radial-gradient(farthest-side at 50% 20%, #000 99%, #0000 0) 57% 10% / 11% 5%,
       radial-gradient(farthest-side at 50% 100%, #0000 80%, #000 0 99%, #0000 0) 50% 10% / 11% 3%,
-      linear-gradient(#25b387 0 0) 50% 10% / 25% 1%,
+      linear-gradient(#fff) 50% 10% / 25% 1%,
       /* head */
       radial-gradient(farthest-side at 50% 100%, var(--skin) 99%, #0000) 50% 0 / 25% 7.5%,
       radial-gradient(farthest-side at 50% 0%, var(--skin) 99%, #0000) 50% 8.5% / 25% 14%
@@ -93,7 +93,7 @@ div {
   }
   
   &::before {
-    content: "if you say so";
+    content: "Air Assault 🎖️;
     font-family: Arial, sans-serif;
     font-size: 2.5vmin;
     font-weight: bold;
