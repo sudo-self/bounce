@@ -17,8 +17,8 @@
 }
 
 div {
-  --barrier: brown;
-  --barrier-dark: gray;
+  --barrier: gold;
+  --barrier-dark: orange;
   --string: #c00;
   --string-light: #d33;
   --string-dark: #a00;
@@ -26,23 +26,22 @@ div {
   --floor-start: #666;
   --floor-end: #555;
   --top: 75%;
-  --door: #140295;
+  --door: #4a4759;
   --door2: #2a2739;
   --skin: #fca;
   --skin-light: #fdb;
   --skin-dark: #fb9;
-  --shirt: #40B752;
+  --shirt: #eee;
   --shirt-light: #fff;
   --shirt-dark: #ddd;
-  --pants: #090A0A;
-  --shoe: #FFFFFF;
+  --pants: #222;
+  --shoe: #000;
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background:
-    
+  background: 
     /* barrier */
     radial-gradient(50% 50% at 50% 100%, var(--barrier) 4vmin, #0000 0) calc(50% - 16.25vmin) calc(75% - 1vmin) / 35vmin 27vmin repeat-x,
     radial-gradient(50% 50% at 50% 100%, var(--barrier-dark) 4vmin, #0000 0) calc(50% - 16.5vmin) calc(75% - 1.1vmin) / 35vmin 27vmin repeat-x,
@@ -85,7 +84,7 @@ div {
       radial-gradient(farthest-side at 50% 20%, #000 99%, #0000 0) 43% 10% / 11% 5%,
       radial-gradient(farthest-side at 50% 20%, #000 99%, #0000 0) 57% 10% / 11% 5%,
       radial-gradient(farthest-side at 50% 100%, #0000 80%, #000 0 99%, #0000 0) 50% 10% / 11% 3%,
-      linear-gradient(#fff) 50% 10% / 25% 1%,
+      linear-gradient(#000 0 0) 50% 10% / 25% 1%,
       /* head */
       radial-gradient(farthest-side at 50% 100%, var(--skin) 99%, #0000) 50% 0 / 25% 7.5%,
       radial-gradient(farthest-side at 50% 0%, var(--skin) 99%, #0000) 50% 8.5% / 25% 14%
@@ -94,7 +93,7 @@ div {
   }
   
   &::before {
-    content: "Air Assault 🎖️;
+    content: "nope!";
     font-family: Arial, sans-serif;
     font-size: 2.5vmin;
     font-weight: bold;
@@ -117,7 +116,7 @@ div {
       linear-gradient(-10deg, #0000 11%, #dda 0 89%, #0000 0) 64.5% 54.5% / 20% 20%,
       radial-gradient( at 72% 52%, var(--skin) 6%, #0000 6.1%),
       /* glasses */
-      linear-gradient(#fff 0 0) 50% 10% / 25% 1%,
+      linear-gradient(#000 0 0) 50% 10% / 25% 1%,
       /* head */
       radial-gradient(farthest-side at 50% 100%, var(--skin-dark) 99%, #0000) 50% 0 / 25% 7.5%,
       radial-gradient(farthest-side at 50% 0%, var(--skin-dark) 99%, #0000) 50% 8.5% / 25% 14%,
@@ -128,7 +127,7 @@ div {
       /* neck */
       radial-gradient(80% 50%, var(--skin-dark) 99%, #0000) 50% 15% / 12% 12%,
       /* belt */
-      linear-gradient(90deg, #090A0A 40%, silver 0 60%, #630 0) 50% 56.5% / 30% 3%,
+      linear-gradient(90deg, #630 40%, silver 0 60%, #630 0) 50% 56.5% / 30% 3%,
       /* torso */
       radial-gradient(100% 50% at 50% 100%, #0000 80%, #0001 0 90%, #0000 0) 50% 41% / 20% 10%,
       radial-gradient(farthest-side at 50% 130%, var(--shirt) 99%, #0000) 50% 23.75% / 48% 5%,
