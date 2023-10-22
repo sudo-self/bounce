@@ -93,7 +93,7 @@ div {
   }
   
   &::before {
-    content: "i bounce pro max";
+    content: "i bounce<br>pro max";
     font-family: Arial, sans-serif;
     font-size: 2.5vmin;
     font-weight: bold;
