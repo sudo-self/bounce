@@ -34,7 +34,7 @@ div {
   --shirt: #eee;
   --shirt-light: #fff;
   --shirt-dark: #ddd;
-  --pants: #9085C4;
+  --pants: #748500;
   --shoe: #FFF;
   position: fixed;
   top: 0;
@@ -93,7 +93,7 @@ div {
   }
   
   &::before {
-    content: "IF YOU SAY SO";
+    content: "BAD IDEA!";
     font-family: Arial, sans-serif;
     font-size: 2.5vmin;
     font-weight: bold;
@@ -125,7 +125,7 @@ div {
       radial-gradient(120% 100% at 39.5% 13.5%, var(--skin-dark) 3%, #0000 0),
       radial-gradient(120% 100% at 60.5% 13.5%, var(--skin-dark) 3%, #0000 0),
       /* neck */
-      radial-gradient(80% 50%, var(--skin-dark) 99%, #0000) 50% 15% / 12% 12%,
+      radial-gradient(80% 50%, var(--skin-dark) 99%, #FFFF) 50% 15% / 12% 12%,
       /* belt */
       linear-gradient(90deg, #630 40%, silver 0 60%, #630 0) 50% 56.5% / 30% 3%,
       /* torso */
