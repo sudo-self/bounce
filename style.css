@@ -93,7 +93,7 @@ div {
   }
   
   &::before {
-    content: "i bounce";
+    content: "IF YOU SAY SO";
     font-family: Arial, sans-serif;
     font-size: 2.5vmin;
     font-weight: bold;
