@@ -32,10 +32,10 @@ div {
   --skin-light: #fdb;
   --skin-dark: #fb9;
   --shirt: #eee;
-  --shirt-light: #fff;
+  --shirt-light: #ccc;
   --shirt-dark: #ddd;
-  --pants: #cc00001;
-  --shoe: #5555FF;
+  --pants: #000;
+  --shoe: #cc00001;
   position: fixed;
   top: 0;
   left: 0;
