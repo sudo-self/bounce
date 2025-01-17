@@ -17,8 +17,8 @@
 }
 
 div {
-  --barrier: gold;
-  --barrier-dark: orange;
+  --barrier: red;
+  --barrier-dark: black;
   --string: #c00;
   --string-light: #d33;
   --string-dark: #a00;
@@ -35,7 +35,7 @@ div {
   --shirt-light: #ccc;
   --shirt-dark: #ddd;
   --pants: #000;
-  --shoe: #cc00001;
+  --shoe: #cc0001;
   position: fixed;
   top: 0;
   left: 0;
