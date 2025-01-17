@@ -94,10 +94,10 @@ div {
     background-repeat: no-repeat;
   }
   
-  &::before {
-    content: "cyber security";
-    font-family: Monospace, sans-serif;
-    font-size: 1.5vmin;
+ &::before {
+    content: "Cyber Security";
+    font-family: Arial, sans-serif;
+    font-size: 2.5vmin;
     font-weight: bold;
     letter-spacing: -0.1vmin;
     text-transform: uppercase;
