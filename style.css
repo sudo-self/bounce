@@ -17,25 +17,27 @@
 }
 
 div {
-  --barrier: red;
-  --barrier-dark: black;
-  --string: #c00;
-  --string-light: #d33;
-  --string-dark: #a00;
-  --wall: #69c;
-  --floor-start: #666;
-  --floor-end: #555;
-  --top: 75%;
-  --door: #4a4759;
-  --door2: #2a2739;
-  --skin: #fca;
-  --skin-light: #fdb;
-  --skin-dark: #fb9;
-  --shirt: #eee;
-  --shirt-light: #ccc;
-  --shirt-dark: #ddd;
-  --pants: #000;
-  --shoe: #cc0001;
+    --barrier: red;
+    --barrier-dark: black;
+    --string: #c00;
+    --string-light: #d33;
+    --string-dark: #a00;
+    --wall: #69c;
+    --floor-start: #666;
+    --floor-end: #555;
+    --top: 75%;
+    --door: #4a4759;
+    --door2: #2a2739;
+    --skin: #fca;
+    --skin-light: #fdb;
+    --skin-dark: #fb9;
+    --shirt: #eee;
+    --shirt-light: #ccc;
+    --shirt-dark: #ddd;
+    --pants: #000;
+    --shoe: #cc0001;
+    /* Other styles */
+}
   position: fixed;
   top: 0;
   left: 0;
