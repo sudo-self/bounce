@@ -90,21 +90,86 @@ div::before {
   font-size: 2.5vmin;
   font-weight: bold;
   letter-spacing: -0.1vmin;
-  text-transform: uppercase;
-  box-sizing: border-box;
-  padding-top: 21vmin;
-  text-align: center;
-  position: absolute;
-  top: 75%;
-  left: 50%;
-  transform: translate(-85%, -80%);
-  width: 40vmin;
-  height: 60vmin;
-  background: 
-    radial-gradient(circle at 70% 55%, var(--skin) 5%, #0000 5.1%),
-    linear-gradient(-10deg, #0000 20%, gray 0 80%, #0000 0) 64% 45% / 10% 5%,
-    linear-gradient(-10deg, #0000 11%, brown 0 89%, #0000 0) 65% 55% / 20% 20%,
-    linear-gradient(-10deg, #0000 11%, #dda 0 89%, #0000 0) 64.5% 54.5% / 20% 20%,
-    radial-gradient( at 72% 52%, var(--skin) 6%, #0000 6.1%);
-}
+text-transform: uppercase;
 
+box-sizing: border-box;
+
+padding-top: 21vmin;
+text-align:
+center:
+position:
+absolute;
+top: 75%;
+
+left: 50%;
+
+
+transform: translate(-85%, -80%) ;
+width: 40vmin;
+
+height: 60vmin:
+
+background:
+
+/* clipboard
+*/
+radial-gradient(circle at 70% 55%,
+var(--skin) 5%, #0000 5.1%),
+Linear-gradient(-10deg,
+#0000 20%,
+gray e 80%,
+#0000 0) 64% 45% / 10% 5%,
+linear-gradient(-10deg,
+#0000 11%,
+brown 0 89%, #0000 0) 65% 55% / 20% 20%,
+Linear-gradient(-10deg,
+#8089 11%，
+#dda @ 89%,
+#0800 8） 64.5% 54.5% / 20%20%，
+radial-gradient( at 72% 52%,
+vaz（--skin） 6%， #8980 6.1%），
+/* glasses */
+linear-gradient(#031a39 e
+50% 10% / 25% 1%,
+* headwh
+radial-gradient(farthest-side at 50% 100%, var(--skin-dark) 99%,
+#0000) 50% 0 / 25% 7.5%,
+radial-gradient(farthest-side at 50% 0%, var(--skin-dark) 99%, #0000) 50k 8.5% / 25% 14%, radial-gradient(farthest-side at 50% 0%, #c002 99%, #0000) 50% 11% / 19% 13%,
+/* ears */
+radial-gradient(120% 100% at 39.5k 13.5%, var(--skin-dark) 3%, #e000 8), radial-gradient(120% 100% at 60.5% 13.5%, var(--skin-dark) 3%, #0000 0), /* neck */
+radial-gradient(80% 50%, var(--skin-dark) 99%, #0000) 50K 15% / 12% 12%,
+/* belt */
+linear-gradient(90deg, #630 40%, silver @ 60%, #630 0) 50% 56.5% / 30% 3%, /* torso */
+radial-gradient(100% 50% at 50% 100%, #0000 80%, #0001 0 90%,
+#0000 e) 50% 41% / 20% 10%,
+radial-gradient(farthest-side at 50k 130%, var(--shirt) 99%, #0000) 50% 23.75% / 48% 5%, radial-gradient(50% 120% at 50% 0%, var(--shirt) 99%, 80000) 50% 39% / 45% 30%, /* legs */ conic-gradient(at 15.5% 170%, #0008
+10deg, var(--pants)
+e 19deg,
+#0000 0) 0 93% / 100% 50%,
+conic-gradient(at 84.5% 170%, #0000
+341deg,
+var(--pants) @ 350deg, #0000 0) 0 93% / 100x 58%,
+linear-gradient(var(--pants) @ 0) 50% 65% / 5% 5%, /* arm 1 */
+radial-gradient(oircle at 29% 32%, var(--skin) 6%,
+#0000 6.1%),
+radial-gradient(50% 50% at 34% 39%, var(--skin) 15%, #0000 15.1%) 0 0 / 80% 110%, radial-gradient(45% 50% at 34% 50%, var(--skin) 15%, #0000 15.1%) 0 0 / 80% 110%, radial-gradient(50% 50% at 20% 50%,
+var(--skin) 99%,
+#0000) 24.5% 65% / 9.5% 15%,
+radial-gradient(50% 50% at 20% 50%,
+var(--skin) 99%,
+#0000) 25% 70% / 12% 10%,
+/* arm 2*/
+radial-gradient(circle at 71% 32%, var(--skin) 6%, #0000 6.1%),
+radial-gradient(50% 50% at 66% 39%, var(--skin) 15%, #0000 15.1%) 100% 0 / 80% 110%, /* shoes */
+radial-gradient(farthest-side at 65% 100%, var(--shoe)
+99%,
+#0000) 22% 100% / 15% 4.25%,
+radial-gradient(farthest-side at
+40% 100%, var(--shoe)
+99%, #0000) 78% 100% / 15% 4%,
+/* shadow */
+radial-gradient(40% 1% at 50% 108%,
+#⑧②87，#0⑧8⑧），
+#f000;
+background-repeat: no-repeat; box-shadow:
+8 4.1vmin 1vmin -4vmin
